@@ -18,3 +18,5 @@ https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B91
 CUDA GPU for ML.NET
 https://developer.nvidia.com/cuda-10.1-download-archive-base
 
+https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.4.38/Production/10.1_20190923/cudnn-10.1-windows10-x64-v7.6.4.38.zip
+
