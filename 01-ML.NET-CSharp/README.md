@@ -2,7 +2,7 @@
 
 ML&period;NET is an open-source machine learning library developed by Microsoft that allows .NET developers to integrate machine learning models into their applications. It provides a simple and easy-to-use API for building, training, and deploying machine learning models, and supports a wide range of algorithms and frameworks, including TensorFlow, ONNX, and Microsoft Cognitive Toolkit (CNTK). With ML&period;NET, developers can leverage their existing .NET skills to build and deploy machine learning models that can be used for tasks such as image and speech recognition, natural language processing, and predictive analytics. The library also provides tools for data preprocessing, model evaluation, and deployment, making it a comprehensive solution for building and deploying machine learning models in .NET applications.
 
-## Links
+## Tools
 
 [Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/)
 
