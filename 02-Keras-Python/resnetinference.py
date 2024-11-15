@@ -6,7 +6,7 @@ import numpy as np
 model = ResNet50(weights='imagenet')
 
 # image of the best cat
-img_path = 'data\haku.jpg'
+img_path = 'haku.jpg'
 img = keras.utils.load_img(img_path, target_size=(224, 224))
 x = keras.utils.img_to_array(img)
 x = np.expand_dims(x, axis=0)
